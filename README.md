@@ -1,3 +1,17 @@
+# Deployment Link: https://quadb-todo-react.netlify.app/
+
+Objective: Develop a basic To-Do application using ReactJS that allows users to add, view, and delete tasks. 
+
+Functionality:
+- Add Task: Users should be able to input a task into a text field and add it to the list by pressing a button or pressing Enter.
+- View Tasks: Display all added tasks in a list format.
+- Delete Task: Each task should have a delete button that, when clicked, removes the task from the list.
+- Edit Task: Each task should have an edit button that, when clicked, task popup opens from the list.
+- Added the capability to mark tasks as completed without deleting them. 
+- Implemented persistent storage (saving tasks to local storage) so that tasks are not lost on page reload.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
